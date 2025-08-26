@@ -1,0 +1,40 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            15,
+            64
+        ],
+        "description": [
+            {
+                "text": "§lTAC-Server 外服综合材质包",
+                "color": "#f0c636"
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {
+                    "min_inclusive": 32,
+                    "max_inclusive": 64
+                },
+                "directory": "1-20-5-overlay"
+            },
+            {
+                "formats": [
+                    46,
+                    64
+                ],
+                "directory": "1-21-4-overlay"
+            },
+            {
+                "formats": {
+                    "min_inclusive": 15,
+                    "max_inclusive": 22
+                },
+                "directory": "wolf-overlay"
+            }
+        ]
+    }
+}
