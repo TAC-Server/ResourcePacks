@@ -190,7 +190,7 @@
 	"enchantment.enchantplus.critical_hit.desc": "有几率造成真实伤害",
 	"enchantment.enchantplus.runic_despair.desc": "在符文维度造成更多伤害。",
 	"enchantment.enchantplus.death_touch.desc": "给予敌人黑暗效果。",
-	"advancement.enchantplus.description.critical_hit": "有几率穿透护甲",
+	"advancement.enchantplus.description.critical_hit": "有几率无视护甲",
 	"advancement.enchantplus.description.dimensional_strike": "在其他维度更强大。",
 	"advancement.enchantplus.description.runic_despair": "释放符文之力。",
 	"advancement.enchantplus.description.kinetic_protection": "你不太擅长这个。",
